@@ -1,6 +1,6 @@
 # Phalanx
 
-[![DOI](https://zenodo.org/badge/1205766791.svg)](https://doi.org/10.5281/zenodo.19488602)
+[![DOI](https://zenodo.org/badge/1205766791.svg)](https://doi.org/10.5281/zenodo.19483902)
 
 <div align="justify">
 
@@ -216,7 +216,7 @@ If you use Phalanx in your research, please cite:
                for Multi-Link Wireless Networks},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.19488602},
+  doi       = {10.5281/zenodo.19483902},
   url       = {https://github.com/g-ampo/phalanx},
   license   = {MIT},
 }
